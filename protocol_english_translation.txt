@@ -130,7 +130,7 @@ L. "...In order to figure out on which IP I am now. Here's my IP". Was there a s
 Egg. Yes
 L. "Suddenly, I'm on another IP. Through the VM I'm constantly on it. I'm constantly on it because I'm here. If I were I home, I would have been on another one, okay?". Was this a mistake according to you?
 Egg. Yes, it was a mistake. 127 is a constant IP. Excitement, stress, it was a mistake.
-L. Is 'lehitraflek' a professional jargon?
+L. Is 'lehitraplek' [from replicate, probably supposed to mean “replicated oneself”] a professional jargon?
 Egg. No, but so is 'ledabeg' [from debug].
 L. You said that the defendants conspired among themselves. Defendant 7 [Yo'av Moran] - with whom did he conspire?
 Egg. When this all started, something happened that I still can't explain six years later, a kind of wildfire caused them to write and talk with each other about it. It also reached some programmer groups.
@@ -145,8 +145,8 @@ Egg. And then the defendant [another one] gives it a like.
 L. According to you, this like is a conspiracy to cause you harm?
 Egg. It's not just 'according to me'.
 Egg quotes criticism pointed at her from defendant 7.
-L. In what you read, show me at least one fact that isn't true. Did you not say 'hitraflek' [some badly botched english word probably]?
-Egg. I said 'hitraflek', I didn't say the sentence as it is presented here. It's his own sentence, not mine. It's mockery.
+L. In what you read, show me at least one fact that isn't true. Did you not say 'hitraplek' [some badly botched english word probably]?
+Egg. I said 'hitraplek', I didn't say the sentence as it is presented here. It's his own sentence, not mine. It's mockery.
 L. Yo'av Moran wrote a lot of things. Is there something there that isn't correct?
 Egg quotes: "If push comes to shove, I'll use the Linux in the pen that's in my office". Linux does exist in pens, maybe in the future.
 Lichtenstein shows a caricature by Ze'ev [a famous cartoonist] and asks whether Ze'ev is mocking the people being drawn.
@@ -154,4 +154,85 @@ Egg. What a joy, I'm in the same category as Peres [Shim'on Peres, former prime 
 L. When you stood on a stage in front of 80 people who payed to the Internet Association, were you still a private person?
 Egg. Yes.
 Lichtenstein describes the plot of Blaumilch Canal: Bomba Tsur ['s character] presents himself as a municipal worker and using his charisma, he succeeds in digging a canal to the sea through a main street. And here is a person, that thinks that she is as charismatic as Bomba Tsur, and stands in front of room filled with professional people, says incorrect things, and receives applause at the end. Is that mockery? He is simply expressing his opinion.
-Egg. It's not an opinion, it's malice. Pure, clean, unadulterated mockery.
+Egg. It's not an opinion, it's malice. Pure, clean, unadulterated mockery. Criticism would have went down like “1, 2, 3, 4 were wrong”. Also, the Google Docs document was private, and even inside it, when they wrote “1, 2, 3, 4…”, there were things that they wrote about me that turned out to be false. In fact, they deleted so many counts that they mocked me about in the the beginning.
+L. Count 37 of your deposition, concerning defendant 7, “the publication reached to around 348 people at the very least”. Where in your addendums does this appear?
+Egg. You can know how to how much people a post reaches, what’s the exposure, what’s the circulation, but I don’t see it here. I don’t remember how you do it, but there’s a way.
+L. That way doesn’t appear in your deposition nor in your addendums.
+Lichtenstein tries to prove that EGG is a public persona by asking questions about her membership in the Meretz party/administration, Narkis objects.
+L. I want to show that the witness was a public persona.
+Judge: If the lawyer shows that she was a party leader, that’s something else. Otherwise, may the lawyer skip this line of questioning.
+A video wherein EGG’s head was photoshopped onto a train is being discussed.
+L. Where do you see collaboration here?
+Egg. 605 people watched this. In my opinion, this is collaboration.
+L. Did you see the video with your husband?
+Egg. It took us 3 years, but we did.
+L. Any more people on your side?
+Egg. Just three friends that my husband enlisted to help us.
+L. The only evidence you have of collaboration is that 600 people watched that video.
+Egg. In the addendum only the video is attached.
+L. Did someone like the video?
+Egg. I didn’t look. It’s mockery.
+L. Is there nothing true in the video?
+Egg. There’s nothing true in it. I’m not a steam engine!.
+L. A 15 year old child think you are as strong as a steam engine and puts your head on a picture of one. Don’t you think that a 15 year old child, that seen the mistakes in the lecture , instead of telling the whole world, created a video that he finds amusing, whose only viewers were his classmates, doesn’t deserve some respect?
+Egg. The kid was part of the avalanche. He published it in 2014. I don’t see anything other than following adults. I’m not sure there’s any discretion in his deeds.
+L. Did you know he was merely a teenager when you sued?
+Egg. No, he was one of the people who hurt me.
+L. And when it was made known to you, did you ask to remove him from the lawsuit?
+Egg. No. I think that a person that says such improper things has to answer for it.
+L. Which things?
+Egg. The video is improper.
+L. In the video we discussed, your name appears in some shape or form?
+Egg. My likeness appears.
+L. Does it say anything about you?
+Egg. It says “Einav Galili the steam engine”.
+Judge: What’s a meme?
+Egg. Meme is a picture that is taken out of context, usually for jokes. They take it from some scene, and then plaster some pun or joke on it.
+L. It’s a cultural expression that’s supposed to criticise. “Mitraplek asunder” We agreed that there’s no such word.
+Egg. Replica is a word.
+L. That is, duplicates, divides itself?
+Egg. No, copies.
+L. Addendum 12 is a smile, satire, on a neologism you invented.
+Egg. Yes, a smile, sarcastically.
+Procedural discussion is taking place about material the plaintiff added in colour, but the judge says that the office only has black-and-white scanners.
+L. Did you make contact with Yo’av Moran and asked to remove the publication before you submitted the lawsuit?
+Egg. No.
+L. That is, in no stage you didn’t reach out to whomever you accused of hurting you and requested to remove the publication and minimize the damages?
+Egg. No.
+L. You claimed that the defendants cloaked their identities [...]. the title of the page is “Yo’av Moran”, I see that he worked in “Solar Edge” in Ramat Hasharon [a city], studied in Ben Gurion University and in the Practical Gymnasium. That is, Yo’av Moran didn’t hide his identity.
+Egg. Not here.
+L. Do you have other evidence concerning Yo’av Moran.
+Egg. No.
+L. That he concealed his identity?
+Egg. Not in the evidence presented here.
+L. Here we have a sceenshot that was taken 7 minutes after the publication. Are there any likes or comments?
+Egg. I don’t see any.
+L. Did you request that he removes the publication after seven minutes?
+Egg. No.
+L. Did you request that he removes it before the lawsuit?
+Egg. No.
+L. Hila Altmann changed her profile picture and 26 people liked it. In your deposition, you misled the court to think that 26 people liked the publication [about you], when in truth they liked the dog picture of the defendant.
+Egg. That I… I don’t know what to tell you. When a picture is uploaded and exposed to at least 26 people, there are at least 26 people that…
+L. So you misled the court?
+Egg. Ok.
+L. If you said in your lecture that the Tor browser is hard on the PC or its CPU, when in actuality, you explain in the table [that she presented to the court] that the browser weighs down on the internet bandwidth, what you said in the lecture wasn’t true.
+Narkis: My friend says “weighs down” but in the deposition “slows down” is said.
+Judge: What’s your answer, my lady?
+Egg. Tor slows down. It something that you need to remove. It’s heavy. The reason I don’t use it today, in more reasonable terms, is that I am not involved in the field for 6 years now. [I wanted to] suppress the memories, to put it behind me.
+Egg quotes from the lecture: “Tor slows down the action of the functioning of the computer”. Lichtenstein quotes the same text but in English: “Tor slows down traffic from the IP address for a short time”.
+Egg. These are both true.
+L. Where is that written? The fact that Tor slows down the network and the fact that Tor slows down the computer aren’t the same thing?
+Egg. No, but they are both true. Everything is true for 2013-2014 at the most. I didn’t surf using Tor for years now, so I don’t know what’s up with it these days.
+L. Hila Altmann’s post was taken “26 six minutes ago”. How many likes?
+Egg. I don’t see any.
+L. None! Did you request Miss Altmann to remove the post 26 minutes after she posted it?
+Egg. No.
+L. Did you did the same before you submitted the lawsuit?
+Egg. No.
+L. Do you know the name Einav Galili?
+Egg. That’s my name.
+L. Do you know [the company] Tor veKeshet - Olam Khadshanut Tekhnologi?
+Egg. Yes.
+L. Is it true that you established Tor veKeshet in 2004?
+Egg. Yes.
+Lichtenstein reads from the website, “Today the company accompanies around 100 different schools in different regards [...] the company leads futuristic projects” and requests to present the website as evidence.
