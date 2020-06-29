@@ -1,0 +1,157 @@
+The Plaintiff: Einav Gottschell Genad-Galili
+Against
+The defendants:
+Guy Lerer
+Bar Shem-Or
+Channel 10 - Tsinor Layla
+Shlomi Borovich
+Ido Keynan
+Almog Afriyat
+Yo'av Moran
+Yoni Began
+Ran Scheiberg
+Asaf Nodler
+Asi Epstein
+Yitskhak Dorfmann
+Yevgeni Zislis
+Avim Fischer
+Udi Wertheimer
+Asi Lev
+Dani'el Strovinski
+Hila Altmann
+Shakhar Bar-Khen
+
+The plaintiff after she was warned as the law requires, responding to the cross-examination of defence lawyer Neumann:
+Q. Are you a cyber expert?
+A. No.
+Q. So what is your profession?
+A. I was an investigator. In the deep web. Haven't been so for a long time now.
+[…]
+Q. Did you have a lecture about reincarnation?
+A. It wasn't a lecture. No.
+Q. So what was it?
+A. I was invited to a conversation by a Rabbi and I told him something I've been through. Until that [cyber] lecture, not a single person watched it [the conversation], suddenly it had 300 thousand views.
+Q. I am moving to your cyber lecture in 18.07.2013. [...] What was the topic of that lecture?
+A. Deep web data gathering, also an introduction to the deep web. [...]
+Q. I am looking at the program note, is that what you talked about?
+A. Yes, that is exactly what deep web investigators need.
+Q. Are you an expert in all of these topics?
+A. I'm no expert. I've been presenting myself as an investigator for years.
+Q. So you are not an expert?
+A. I'm an investigator, meaning a 'learner'.
+Q. And this was your first lecture in the topic?
+A. Yes.
+[...]
+Q. In the duration of the lecture, which I remind you was over 4.5 hours [!], You talked about topics that weren't included in the program.
+A. I was asked questions… I suppose so. As you know, 4.5 hours.
+Q. And are you aware that the Israeli Internet Association said after the fact that you overstepped your program without permission.
+A. I don't know.
+[...]
+Q. All of the things you said in the 5 hours of your lecture were one-hundred percent true and reliable?
+A. For all I know, yes.
+[...]
+
+Defence lawyer Klinger:
+Q. Did you say you were a hacker in the lecture
+A. I did that in the past.
+Q. Did you say that you had a degree in computer science?
+A. In computer science? I don't remember so.
+Q. I present a video from your lecture.
+A. I said information systems and operating systems.
+Q. In your degree in governance, did you do a course in operating systems?
+A. No.
+Q. And in your degree for international relations?
+A. No. I have documents from Auburn University in Oklahoma showing all of my credentials in the field. They aren't here.
+Q. In minute ten you said you show a slide. Did you prepare it alone?
+A. In its current form, yes.
+Q. You didn't get it from somewhere?
+A. In its current form, yes.
+[...]
+Q. It isn't based on a drawing of the earth by another person?
+A. No, it's mine. Someone drawn it for me.
+Q. Who did?
+A. My boyfriend.
+Q. You said in your deposition that you used a graphics software to draw it.
+A. Yes, but I didn't.
+[...]
+Q. When you were 12, what was the year?
+A. Do I really need to reveal my age before everybody here?
+Q. Was it before 1995?
+A. Yes.
+Q. I present you minute 24 in the video. You said you hacked a game when you were 12, and the police came to your home, is this correct and true?
+A. Absolutely
+Q. Confirm to me that before 95', Israel didn't have a single law forbidding hacking computers.
+A. The truth is that in a really young age I was given a Commodore 128.
+Q. Were you investigated about these crimes?
+A. Yes.
+Q. What section in the law were you accused of breaking?
+A. Can't tell you. What I can tell you, is that this software, this game, I did it together with a friend, they were very angry that we did what is called "opening it to the public", we opened it. It was very unpleasant.
+Q. The internet didn't exist when you were 12?
+A. No, but we had tapes.
+Q. You distributed empty or duplicated cassettes?
+A. I didn't, it was me and a friend.
+Q. There wasn't any distribution?
+A. There wasn't, we did reach out and told the company that we know how to do it.
+Q. Breaking copyright isn't a criminal offence that the police deals with. What section of the law were you told you broke?
+A. That we hacked a software that was bought.
+Q. This is exactly like the opening scene of the movie 'Hackers'. Are you using terms from a fantasy world?
+A. No, and I've never seen the movie.
+
+EGG responding to defence lawyer Lichtenstein's cross-examination:
+Egg [on a screenshot of defendant 7's Facebook page]: Taken by Almog Aminov. No clue who's Almog Aminov.
+Lichtenstein: Requesting to take out addendum 6.
+Egg's lawyer, Narkis: Objection. The claim was already raised in the last session and the court has already given its decision on it.
+[...]
+Egg [on another picture]: My husband took it. People brought me things. I was in bed, I didn't go out of bed.
+L. Do you usually speak about yourself in 3rd or 1st person?
+Egg. 1st, I don't have a kingdom.
+Egg. It was a lecture for investigators. It wasn't a stand-up show. It was a lecture very based, very very based on deep web investigation. In 2013, it interested very few people.
+L. Do you know that there were mistakes in the lecture? Or was everything correct according to your knowledge.
+Egg. I said, and it appears in previous protocols, that there were very specific mistakes. But for a 5-hour lecture, it had very little mistakes.
+L. Why did you ask the Internet Association to remove it?
+Egg. Because it became a witch-hunt. A witch-hunt no less! [...] They shortened a 5 hour lecture to 7 minutes. If I said Moshe [the name Moses] in the beginning and Linux in the end, they would have shortened it to Moshe Linux.
+L. If a doctor stands on the stages and makes mistakes, it stand to reason that he'll get criticism and an outcry similar to what you faced.
+To the request of attorney Narkis, the judge requests attorney Lichtenstein to speak slowly for the protocol, and give time for EGG to answer when the questions are open.
+L. In your lecture you said: "Every computer has a thing called a kernel. The kernel is in the inside of the inside of the inside of the computer [linguistic construction placing emphasis, that is, very very deep]. It is a piece of hardware that also speaks with the software. Software things are burnt on it. It speaks with the iron… that's why it has very little bugs and very little viruses, rather, only after it gets old".
+Egg confirms
+L. So you said that a kernel is a hardware trinket that software is burnt on.
+Egg. Yes.
+L. If there's a difference between what was written on the table [egg's explanations of the lecture] about what was said in the lecture - that's a mistake.
+Egg. When you speak continually and fluently, you say things that you remember by heart. When you later write them down, you use terms from the written language and not the spoken language. It's important to say that when I said what I said in the lecture, they were said in a very simple manner. I didn't speak to experts in the field of computing.
+L. An operating system, is it a hardware or a software.
+Egg. Are we doing a computer exam now? I won't answer that.
+L. I would like to request the witness is ordered to answer.
+Egg. Also, how is this related to shaming?
+The judge intervenes and compels her to answer.
+Egg. An operating system is a software.
+L quotes from the lecture: "I did ipconfig..."
+Egg. I already said it was a mistake
+L. "...In order to figure out on which IP I am now. Here's my IP". Was there a slide behind you showing 127.0.0.1?
+Egg. Yes
+L. "Suddenly, I'm on another IP. Through the VM I'm constantly on it. I'm constantly on it because I'm here. If I were I home, I would have been on another one, okay?". Was this a mistake according to you?
+Egg. Yes, it was a mistake. 127 is a constant IP. Excitement, stress, it was a mistake.
+L. Is 'lehitraflek' a professional jargon?
+Egg. No, but so is 'ledabeg' [from debug].
+L. You said that the defendants conspired among themselves. Defendant 7 [Yo'av Moran] - with whom did he conspire?
+Egg. When this all started, something happened that I still can't explain six years later, a kind of wildfire caused them to write and talk with each other about it. It also reached some programmer groups.
+L. I request that you refer to defendant 7, not 'them'.
+Narkis: If my friend [a phrase that lawyers use to refer to each other] asks my client an open question, I would like to request that he listens to the whole answer, and if the answer is not to his liking, may he ask another question.
+L. Show me where defendant 7 collaborated with the other defendants.
+Egg. When he uploaded what he uploaded, he caused hype, commotion, comments, likes, shares. That, if not more than any other thing, turns one thing into another, creates buzz, creates discussion. And it created a discussion that turned violent. When you speak specifically about one person, you cannot explain the magnitude of its spread. Whenever they started to crowdfund against me, against their 'wicked witch of the west', he is part of their hype. It's a full collaboration between them. It starts with that that it has likes…
+Judge: When did defendant 7 do anything. Until now I listened patiently and I've only heard general complaints. My lady sued defendant 7, my lady shall point out what he done, not sayings and likes.
+Egg. Here's one example: he uploaded a picture of miss Genad-Galili, that is completely out of context, that I'm digging the Blaumilch Canal [a movie about a man called Blaumilch who gets released from a psychiatric hospital, buys a jackhammer, and starts digging a canal in the middle of Tel-Aviv. Has become a byword for doing something insane and seemingly useless. Egg didn't understand the joke], apparently...
+Judge: You didn't see the movie? It's with Bomba Tsur [the actor that played Blaumilch]. I've seen it as a child.
+Egg. And then the defendant [another one] gives it a like.
+L. According to you, this like is a conspiracy to cause you harm?
+Egg. It's not just 'according to me'.
+Egg quotes criticism pointed at her from defendant 7.
+L. In what you read, show me at least one fact that isn't true. Did you not say 'hitraflek' [some badly botched english word probably]?
+Egg. I said 'hitraflek', I didn't say the sentence as it is presented here. It's his own sentence, not mine. It's mockery.
+L. Yo'av Moran wrote a lot of things. Is there something there that isn't correct?
+Egg quotes: "If push comes to shove, I'll use the Linux in the pen that's in my office". Linux does exist in pens, maybe in the future.
+Lichtenstein shows a caricature by Ze'ev [a famous cartoonist] and asks whether Ze'ev is mocking the people being drawn.
+Egg. What a joy, I'm in the same category as Peres [Shim'on Peres, former prime minister and president who made peace with Jordan]. Ronald Reagan too? Certainly, but who am I compared to them? I'm not a public personality, I'm not famous. Reagan and Shamir [another former prime minister].
+L. When you stood on a stage in front of 80 people who payed to the Internet Association, were you still a private person?
+Egg. Yes.
+Lichtenstein describes the plot of Blaumilch Canal: Bomba Tsur ['s character] presents himself as a municipal worker and using his charisma, he succeeds in digging a canal to the sea through a main street. And here is a person, that thinks that she is as charismatic as Bomba Tsur, and stands in front of room filled with professional people, says incorrect things, and receives applause at the end. Is that mockery? He is simply expressing his opinion.
+Egg. It's not an opinion, it's malice. Pure, clean, unadulterated mockery.
