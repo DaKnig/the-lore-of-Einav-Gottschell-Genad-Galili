@@ -11,3 +11,6 @@ train tank" meme about her. She sued bloggers, TV station...
 This a partial transcript of one part of that lawsuit, translated by Ido. 
 Please help with translating, improving and sending more material about 
 this crazy phenomena. Pull requests are welcome.
+
+
+Credits : Ido (didnt want to present contact info here), Eren (dont ask for contact info)
